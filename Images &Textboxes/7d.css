@@ -1,0 +1,29 @@
+.profile-picture{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.textbox{
+    border: none;
+    font-size: 30px;
+    width: 450px;
+    vertical-align:middle;
+}
+.tweet-button{
+    background-color: rgb(53, 175, 245);
+    color:white;
+    width: 110px;
+    font-weight: bold;
+    font-size: 22px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 32px;
+    border: none;
+    vertical-align:middle;
+}

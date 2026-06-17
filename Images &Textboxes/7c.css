@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+    color: rgb(100,100,100);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.email{
+    margin-bottom: 12px;
+}
+input{
+    width:365px;
+    font-size: 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(100,100,100);
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+}
+.disclaimer{
+    margin-bottom: 26px;
+}
+button{
+    background-color: rgb(30, 135, 233);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width:400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+    border: none;
+}
