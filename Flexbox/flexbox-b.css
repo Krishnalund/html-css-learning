@@ -1,0 +1,22 @@
+.lightblue{
+    background-color: lightblue;
+}
+.lightpink{
+    background-color: lightpink;
+}
+.flexbox-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.flexbox-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    height: 50px;
+    align-items: center;
+}
